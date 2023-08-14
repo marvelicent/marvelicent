@@ -8,7 +8,6 @@ My name is Maria Eduarda and I'm a student of analysis and systems development. 
   <img align="center" alt="duda-canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
   <img align="center" alt="duda-bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
   <img align="center" alt="duda-linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">  
-  <img align="center" alt="duda-unix" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unix/unix-original.svg">
 </div>
 
 <div style="display: inline_block"><br>
